@@ -3,5 +3,3 @@ This is a an example for adding on git.
 Hi This is good
 
 This is anothe line
-
-Wow another one
